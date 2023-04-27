@@ -1,7 +1,7 @@
 # capstone_720
 Twitter Sentiment Analysis about Stocks
 
-Capstone_720 Ipynb file has the code realted to Finviz news along with Yfinance data scraping,
+Capstone_720 Ipynb file has the code related to Finviz news along with Yfinance data scraping,
 
 Capstone_720_1.py python file is exported .py file 
 
